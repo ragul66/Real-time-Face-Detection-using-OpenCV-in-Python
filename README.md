@@ -89,7 +89,7 @@ Contribute
 Feel free to fork this repository and contribute enhancements or fixes. Create a pull request, and let’s improve it together!
 
 Contact
-For questions, suggestions, or issues, please open an issue or reach out to your.email@example.com.
+For questions, suggestions, or issues, please open an issue or reach out to ragulvasanth24@gmail.com.
 
 requirements.txt
 plaintext
